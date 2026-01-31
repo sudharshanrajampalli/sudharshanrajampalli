@@ -1,44 +1,49 @@
 👋 Hi, I'm Sudharshan Rao Rajampalli
-I am a Site Reliability Engineer & Cloud Engineer with over 2.5 years of experience focused on building resilient infrastructure and automating operational workflows. I specialize in AWS , Linux Administration , and Infrastructure as Code.
+# ☁️ Sudharshan Rao Rajampalli
+### Site Reliability Engineer | Cloud Architect | Automation Specialist
 
-🛠 Technical Toolbox
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
-Cloud & Platforms: AWS (EC2, S3, VPC, Lambda, Batch), OCI.
+---
 
+### ⚡ Operational Excellence
+- **Reliability:** 100% SLA adherence in 24/7 production environments.
+- **Automation:** Reduced manual toils by **40%** via IaC (Terraform/Ansible).
+- **Monitoring:** Decreased MTTR by **25%** using Grafana & Prometheus stacks.
+- **Scale:** Administering 150+ Enterprise Unix/Linux Servers.
 
-Infrastructure as Code: Terraform, Ansible.
+---
 
+### 🛠 Tech Stack & Tools
 
-Linux/Unix: RHEL (6-9), Ubuntu, CentOS, Oracle Linux.
+| Category | Tools |
+| :--- | :--- |
+| **Cloud** | AWS (EC2, S3, Lambda, VPC), OCI, Azure |
+| **IaC & Config** | Terraform, Ansible, Shell Scripting, Bash |
+| **Observability** | Prometheus, Grafana, CloudWatch, ELK Stack, OpManager |
+| **Systems** | RHEL 6-9, Ubuntu, CentOS, Oracle Linux |
+| **CI/CD** | Git, SnapLogic, Jenkins |
 
+---
 
-Monitoring & Logging: Grafana, Prometheus, CloudWatch, ELK Stack, OpManager.
+### 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight" alt="Sudharshan's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
+---
 
-Scripting & Dev: Python, Bash, Shell Scripting, Git.
+### 🏆 Recognitions & Certifications
+- **Winner:** National Level Project Expo 2023 (IEEE) - Autonomous Vehicle System.
+- **Certifications:** Azure Administrator, Azure AI Foundations, OCI AI Associate, ITIL Foundation.
 
+---
 
-ITSM: ServiceNow, ITIL Foundation.
-
-🚀 Professional Highlights
-
-Automation: Reduced manual operational effort by 40% using Terraform, Ansible, and Bash.
-
-
-Reliability: Maintain 100% SLA adherence and zero customer escalations in high-pressure 24/7 production environments.
-
-
-Efficiency: Decreased Mean Time to Resolution (MTTR) by 25% through proactive monitoring and prioritization.
-
-
-Scale: Support and administer over 150+ servers across various distributions.
-
-
-Awards: Won 1st Prize at the National Level Project Expo 2023 (IEEE) for an Autonomous Vehicle System.
-
-📄 Certifications
-Microsoft Certified: Azure Administrator & AI Fundamentals.
-
-Oracle Cloud Infrastructure 2024 AI Foundations Associate.
-
-ITIL Foundation
+### 📫 Connect with me:
+[LinkedIn](YOUR_LINKEDIN_URL) | [Portfolio](YOUR_PORTFOLIO_URL) | [Email](mailto:sudharshanrajampalli@gmail.com)
