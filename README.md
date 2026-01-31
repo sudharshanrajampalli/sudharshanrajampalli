@@ -46,4 +46,4 @@
 ---
 
 ### 📫 Connect with me:
-[LinkedIn](YOUR_LINKEDIN_URL) | [Portfolio](YOUR_PORTFOLIO_URL) | [Email](mailto:sudharshanrajampalli@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sudharshan-rao-rajampalli-7b69b223a/) | [Portfolio](https://sudharshan-rao-rajampalli.vercel.app/) | [Email](mailto:sudharshanrajampalli@gmail.com)
