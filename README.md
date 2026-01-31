@@ -1,4 +1,3 @@
-👋 Hi, I'm Sudharshan Rao Rajampalli
 # ☁️ Sudharshan Rao Rajampalli 
 ### Site Reliability Engineer | Cloud Infrastructure & Automation Specialist
 
