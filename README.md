@@ -1,5 +1,3 @@
-To create a compelling GitHub profile "About Me" (README.md), I’ve condensed your technical stack and achievements into a clean, developer-centric format.
-
 👋 Hi, I'm Sudharshan Rao Rajampalli
 I am a Site Reliability Engineer & Cloud Engineer with over 2.5 years of experience focused on building resilient infrastructure and automating operational workflows. I specialize in AWS , Linux Administration , and Infrastructure as Code.
 
